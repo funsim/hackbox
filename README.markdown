@@ -24,7 +24,7 @@ In principal, this project shows that it is not as difficult to get data out of 
 
 ![Schematic](https://raw.github.com/funsim/hackbox/master/pics/schematic.png)
 
-![Wiring](https://raw.github.com/funsim/hackbox/master/pics/wiring.png)
+![Wiring](https://raw.github.com/funsim/hackbox/master/pics/wiring.jpg)
 
 ####Pins All
 
