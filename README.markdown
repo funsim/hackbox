@@ -14,13 +14,6 @@ In principal, this project shows that it is not as difficult to get data out of 
 - Two 9-pin SUB-D connectors, some wire (< $10)
 
 
-####Pins Used
-
-- red and yellow are GND
-- green is LED signal (pulsed)
-- orange is second LED signal (pulsed)
-- blue is light sensor
-
 
 ![Schematic](https://raw.github.com/funsim/hackbox/master/pics/schematic.png)
 
@@ -28,12 +21,16 @@ In principal, this project shows that it is not as difficult to get data out of 
 
 ####Pins All
 
-- 1	[Brown]		Power	2.8V	Main power rail?
-- 2 [Orange]	Data			Led 1 Trigger
-- 3 [Green]		Data			Led 2 Trigger
-- 4 [Pink]		Power	1.2V	?
-- 5 [White]		Power	2V?		Light sensor calibration?
-- 6 [Red]		GND
-- 7 [Yellow]	GND
-- 8 [Blue]		Data			Sensor Output
-- 9 [Grey]		Data?	1.9		Light sensor calibration?
+- COM 1	| Power	2.8V	Main power rail?
+- COM 2 | Data			Led 1 Trigger
+- COM 3 | Data			Led 2 Trigger
+- COM 4 | Power	1.2V(?)
+- COM 5 | Power	2V(?)		Light sensor calibration(?)
+- COM 6 | GND
+- COM 7 | GND
+- COM 8 | Data			Sensor Output
+- COM 9 | Data?	1.9		Light sensor calibration(?)
+
+####Pins Used
+For this project we only used the GND, the pulsed LED signalsi and light sensor.
+
