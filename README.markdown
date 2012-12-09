@@ -8,4 +8,5 @@ Pins
 - blue is light sensor
 
 
+![Schematic](pics/schematic.png)
 
