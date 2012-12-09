@@ -1,5 +1,15 @@
 #hackbox
-####An Arduino program that reads the lifebox pulse oximeter sensor signal  
+####An Arduino project to read the lifebox pulse oximeter sensor signal  
+
+About this project
+...
+
+
+What you need:
+- A lifebox pulse oximeter (http://www.lifebox.org/) ($250)
+- An Arduino board (http://www.arduino.cc/) (ca. $25)
+- Two 9-pin SUB-D connectors, some wire (< $10)
+
 
 Pins
 
