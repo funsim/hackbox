@@ -8,5 +8,5 @@ Pins
 - blue is light sensor
 
 
-![Schematic](pics/schematic.png)
+![Schematic](https://github.com/funsim/hackbox/blob/master/pics/schematic.png)
 
