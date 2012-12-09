@@ -22,6 +22,9 @@ ion()
 tstart = time.time()               # for profiling
 x = range(1000)
 y = range(1000)
+
+plt.figure(figsize=(6*3.13,4*3.13))
+
 line, = plot(y)
 while True: 
     l = ser.readline()
